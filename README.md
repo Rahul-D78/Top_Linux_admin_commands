@@ -125,4 +125,9 @@ Filtering files by theire size using `-size` parameater .
 ```
 $find /usr -size 50c
 ```
+
+13. ## __HTTP Server using Python__
+```
+python3 -m httt.server 8000
+```
 ------------------------More Commands added soon -----------------------
