@@ -112,7 +112,7 @@ __lists the open file__ associated with your application . If your application w
 
 ```$lsof -i tcp:80```
 
-12. ## __Find__
+12. ## __find__
 Powerful Linux utility helps us find out files on the system in a combination of robust filtering options [Read More](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux) .
 
 Filtering files by theire size using `-size` parameater .
@@ -130,4 +130,17 @@ $find /usr -size 50c
 ```
 python3 -m httt.server 8000
 ```
+14. ## __nestat__
+Used to view network traffic status and protocol statistics
+
+```
+netstat --help
+netstat -tulnp
+```
+15. `btop` shows system information in a very fancy way
+
+16. `iperf` used to perform network traffic analysis
+
+17. `perf` command used to dignose programs running on userspace
+
 ------------------------More Commands added soon -----------------------
