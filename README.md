@@ -143,10 +143,16 @@ netstat -tulnp
 
 17. `perf` command used to dignose programs running on userspace
 
-18. `halt` ❯ whatis halt
+18. ## __halt__
+```
+❯ whatis halt
 halt (8)             - Halt, power-off or reboot the machine
-
-19. `stat` ❯ whatis stat
+```
+20. ## __stat__
+```
+❯ whatis stat
 stat (2)             - get file status
 stat (1)             - display file or file system status
-
+```
+21. ## __diff__
+Compare files line by line - `diff file1 file2`
