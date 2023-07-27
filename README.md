@@ -143,4 +143,4 @@ netstat -tulnp
 
 17. `perf` command used to dignose programs running on userspace
 
-------------------------More Commands added soon -----------------------
+18. `halt` Halt, power-off or reboot the machine
