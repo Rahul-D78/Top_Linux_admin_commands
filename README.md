@@ -62,7 +62,7 @@ $python -m http.server 3000
 As a developer if you are pushing your application onto the localhost or remote you might come accross the error port is already allocated__ by using certion flags we can caheck which port is allocated to which application .
 ```$netstat -tulpn```
 
-6. ## __namp__
+6. ## __nmap__
 `network security` is as important to every person who are serfing web in todays so nmap is a powerful cmd tool used for scanning our network . 
 
 ```
